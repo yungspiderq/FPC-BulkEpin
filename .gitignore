@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+.venv/
+venv/
+storage/
+*.db
+*.db-*
+.env
+.env.*
+*token*
+Gitapi.txt
